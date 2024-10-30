@@ -1,0 +1,99 @@
+
+.rateOrderRatingSpacer {
+	margin: 20px 0;
+}
+
+.rateOrderRating {
+	margin: 5px 0;
+}
+
+.rateOrderRating span {
+	display: inline-block;
+	width: 200px;
+}
+
+.rateOrderRating input {
+	margin: 0 10px;
+}
+
+.rateOrderReview {
+	margin: 10px 0;
+}
+
+.rateOrderReview span {
+	display: block;
+}
+
+.rateOrderReview textarea {
+	width: 100%;
+	height: 200px;
+}
+
+.orderInfo {
+	margin: 5px 0;
+}
+
+.orderInfo span {
+	display: inline-block;
+	width: 200px;
+	font-weight: bold;
+}
+
+.keywordTable {
+	margin: 10px 0;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.keywordTable thead th {
+	width: 400px;
+}
+
+.keywordTable thead td {
+	width: 100px;
+}
+
+.keywordTable thead td, .keywordTable thead th {
+	font-weight: bold;
+	margin: 0;
+	padding: 3px 0;
+	text-align: left;
+}
+
+.keywordTable tbody td {
+	padding: 3px 0;
+}
+
+.highlightedWord {
+	color: #000;
+	background-color: #ddd;
+}
+
+#communications {
+	margin-top: 30px;
+	width: 600px;
+}
+
+#communications #communicationTitle {
+	font-weight: bold;
+}
+
+#communications #messages .message {
+	margin: 10px 0;
+}
+
+#communications #messages .messageContent {
+	border: 1px solid #dfdfdf;
+	background-color: #fff;
+	
+	margin: 5px 0;
+	padding: 5px;
+}
+
+#communications #writeMessage {
+	margin-top: 20px;
+}
+
+#communications #writeMessage textarea {
+	width: 100%;
+}

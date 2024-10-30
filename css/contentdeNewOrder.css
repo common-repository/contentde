@@ -1,0 +1,41 @@
+
+#orderDataOO, #orderDataGO, #orderDataDO, #orderData {
+	display: none;
+}
+
+#orderTypeSelect, #orderDataOO, #orderDataGO, #orderDataDO, #orderData, #savedOrders {
+	width: 900px;
+}
+
+#keywordProtoContainer {
+	display: none;
+}
+
+#orderData .form-table {
+}
+
+.field-align {
+	display: inline-block;
+	width: 150px;
+}
+
+#budget {
+	border-radius: 3px 3px 3px 3px;
+	border: 1px solid #dfdfdf;
+
+	padding: 5px;
+}
+
+#budget legend {
+	padding: 0 5px;
+	font-weight: bold;
+}
+
+#budget td {
+	padding: 3px 0;
+	padding-right: 15px;
+}
+
+#savedOrders {
+	margin-bottom: 50px;
+}
